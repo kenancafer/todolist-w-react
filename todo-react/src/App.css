@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  padding: 5px;
+}
+ul li:hover {
+  cursor: pointer;
+}
